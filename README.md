@@ -2,7 +2,7 @@
 
 **Chinese Academic Readability Pro · v1.9.3**
 
-面向中文学术论文和博士开题报告的 Agent Skill。它帮助作者理清研究问题、证据与推论之间的关系，让读者能准确理解文章主张及其适用范围。适用于体育科学、运动干预、健康心理学与行为科学等研究，尤其适合处理引言论证跳跃、开题方法细节过密、讨论罗列文献、段落过碎等问题。
+面向中文学术论文和博士开题报告的 Agent Skill。它帮助作者理清研究问题、证据与推论之间的关系，让读者能准确理解文章主张及其适用范围。适用于运动干预、健康心理学与行为科学等研究，尤其适合处理引言论证跳跃、开题方法细节过密、讨论罗列文献、段落过碎等问题。
 
 **[下载 v1.9.3 完整安装包（ZIP）](https://github.com/Ruihanchen-max/chinese-academic-readability-pro/raw/refs/heads/main/Chinese_Academic_Readability_Pro_v1.9.3.zip)**
 
